@@ -1,5 +1,5 @@
 # Licence-Plate-Detection-and-Recognition-using-YOLO-V8-EasyOCR by Chulindra Rai
-Created an model using YOLOv8 model and Open CV .YOLOv8 is the latest version of the YOLO (You Only Look Once) AI models developed by Ultralytics.
+Created an model using YOLOv8.2 model and Open CV .YOLOv8 is the latest version of the YOLO (You Only Look Once) AI models developed by Ultralytics.
 
 **DeMo**
 
