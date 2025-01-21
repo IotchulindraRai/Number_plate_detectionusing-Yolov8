@@ -20,7 +20,7 @@ https://github.com/IotchulindraRai/Numberplatedeetectionusing-Yolov8/assets/8784
 
 
 
-
+**prepared by chulindra**
 
 
 
